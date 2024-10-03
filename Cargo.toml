@@ -1,0 +1,9 @@
+[package]
+name = "auto_cover"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.89"
+image = "0.25.2"
+rayon = "1.10.0"
